@@ -3,6 +3,6 @@ export type FoodTypes = {
   name: string;
   image: string;
   description: string;
-  price: number;
+  price: string;
   available: boolean;
 }
